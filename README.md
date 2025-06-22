@@ -18,7 +18,7 @@ Includes automatic CSV logging, browser UI, and personalizable dataset setup.
 ---
 
 ## Sample detection 
-<img src ="C:\Users\AYUSH\Documents\github projects\New folder\MPFR\uploads\result.jpg" alt="prediction-example" width="500"/>
+<img src ="uploads\result.jpg" alt="prediction-example" width="500"/>
 ## 📁 Project Structure
 
 ```
